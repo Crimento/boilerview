@@ -1,0 +1,13 @@
+//bootstrap initial variables
+@import 'node_modules/bootstrap/scss/_functions';
+@import 'node_modules/bootstrap/scss/_variables';
+
+//custom colors for bootstrap
+$custom-colors: (
+  'gray': #999,
+  'black': #000,
+  'primary': #23a455,
+);
+$theme-colors: map-merge($theme-colors, $custom-colors);
+
+@import 'node_modules/bootstrap/scss/bootstrap';
