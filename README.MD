@@ -16,11 +16,13 @@ npm install
 
 ```bash
 npm run dev
+```
 
 to open development environment
 
 ```bash
 npm run build
+```
 
 to minimize css and js files and prepare for production
 
