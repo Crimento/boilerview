@@ -1,5 +1,5 @@
 {
-  "name": "boiler-vue3",
+  "name": "boilerview",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -25,7 +25,7 @@
     "eslint-plugin-json": "^3.1.0",
     "eslint-plugin-json-es": "^1.5.3",
     "mini-css-extract-plugin": "^2.3.0",
-    "prettier": "^2.4.0",
+    "prettier": "^2.4.1",
     "prettier-eslint": "^13.0.0",
     "sass-loader": "^12.1.0",
     "style-loader": "^3.2.1",
@@ -38,7 +38,7 @@
     "build": "webpack --config build/webpack.prod.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Crimento",
   "license": "ISC",
   "private": true
 }
