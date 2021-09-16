@@ -1,8 +1,8 @@
 # Boilerview
 
-Vue 3 boilerplate based on Webpack 5.
+Vue 3, Bootstrap 3 and Sass boilerplate based on Webpack 5.
 
-Bootstrap 5, ESLint, Prettier and Browsersync included
+ESLint, Prettier and Browsersync included for your developer needs
 
 ## Installation
 
